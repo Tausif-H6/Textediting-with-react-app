@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Textediting-with-react-app/static/css/main.3fb9a6ab.chunk.css",
+    "main.js": "/Textediting-with-react-app/static/js/main.9d3c4f28.chunk.js",
+    "main.js.map": "/Textediting-with-react-app/static/js/main.9d3c4f28.chunk.js.map",
+    "runtime-main.js": "/Textediting-with-react-app/static/js/runtime-main.59f27e60.js",
+    "runtime-main.js.map": "/Textediting-with-react-app/static/js/runtime-main.59f27e60.js.map",
+    "static/js/2.c863b31e.chunk.js": "/Textediting-with-react-app/static/js/2.c863b31e.chunk.js",
+    "static/js/2.c863b31e.chunk.js.map": "/Textediting-with-react-app/static/js/2.c863b31e.chunk.js.map",
+    "static/js/3.c5ffd954.chunk.js": "/Textediting-with-react-app/static/js/3.c5ffd954.chunk.js",
+    "static/js/3.c5ffd954.chunk.js.map": "/Textediting-with-react-app/static/js/3.c5ffd954.chunk.js.map",
+    "index.html": "/Textediting-with-react-app/index.html",
+    "static/css/main.3fb9a6ab.chunk.css.map": "/Textediting-with-react-app/static/css/main.3fb9a6ab.chunk.css.map",
+    "static/js/2.c863b31e.chunk.js.LICENSE.txt": "/Textediting-with-react-app/static/js/2.c863b31e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59f27e60.js",
+    "static/js/2.c863b31e.chunk.js",
+    "static/css/main.3fb9a6ab.chunk.css",
+    "static/js/main.9d3c4f28.chunk.js"
+  ]
+}
