@@ -1,0 +1,47 @@
+
+
+
+h2{
+    font-family: sans-serif;
+    color: black;
+    text-shadow: 2px 2px 4px #000000;
+    border-style: outset;
+    
+}
+
+h1{
+    
+    font-family: sans-serif;
+    color: black;
+    text-shadow: 2px 2px 4px #ebe1e1;
+    border-style: outset;
+    
+}
+
+
+
+.btn{
+    outline: 0;
+    position: relative;
+    display: inline-block;
+    padding: 10px 40px;
+    font-size: 20px;
+    overflow: hidden;
+    cursor: pointer;
+    border: 2px solid #FFFF00;
+    background: #e6e60f;
+    color: #000;
+    font-weight: 600;
+    transition: box-shadow 0.5s ease-in-out, border-color 0.5s ease-in-out;
+    margin: 5px;
+}
+.btn:hover{
+    background-color: #FFFF00;
+    color: #000;
+    box-shadow: 0 0 5px #a74718,
+                0 0 20px rgb(255 255 0 / 0.8),
+                0 0 35px rgb(255 255 0 / 0.7),
+                0 0 50px rgb(255 255 0 / 0.6);
+    border-color: #fff;
+    
+}
